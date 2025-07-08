@@ -6,7 +6,7 @@ with a structured database (plus future Power BI loads).
 ## What’s here
 * `scripts/` batch scripts that call the Smartsheet REST API  
 * `data-models/` ER-diagrams, CSV templates for each sheet  
-* `docs/` setup notes and FAQ
+* `docs/` setup notes and FAQ, including [Cable Tracker Setup](docs/cable_tracker_setup.md)
 
 ## Quick start
 1. Create a Smartsheet API token and store it in an environment variable  
